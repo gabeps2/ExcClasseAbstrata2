@@ -1,6 +1,6 @@
 using System;
 
-namespace ExcCkasseAbstrata2
+namespace ExcClasseAbstrata2
 {
     class Pjuridica:Contribuinte
     {

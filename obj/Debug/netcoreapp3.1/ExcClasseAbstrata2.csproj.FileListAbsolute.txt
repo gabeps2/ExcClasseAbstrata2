@@ -1,0 +1,13 @@
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\bin\Debug\netcoreapp3.1\ExcClasseAbstrata2.exe
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\bin\Debug\netcoreapp3.1\ExcClasseAbstrata2.deps.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\bin\Debug\netcoreapp3.1\ExcClasseAbstrata2.runtimeconfig.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\bin\Debug\netcoreapp3.1\ExcClasseAbstrata2.runtimeconfig.dev.json
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\bin\Debug\netcoreapp3.1\ExcClasseAbstrata2.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\bin\Debug\netcoreapp3.1\ExcClasseAbstrata2.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.csprojAssemblyReference.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.csproj.CoreCompileInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.AssemblyInfoInputs.cache
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.AssemblyInfo.cs
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.dll
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.pdb
+D:\Users\Gabriel\Google Drive PUC\Sistemas de Informação\3º Semestre\LabPOO\Exercícios\ExcCkasseAbstrata2\obj\Debug\netcoreapp3.1\ExcClasseAbstrata2.genruntimeconfig.cache

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Gabriel\\Google Drive PUC\\Sistemas de Informação\\3º Semestre\\LabPOO\\Exercícios\\ExcCkasseAbstrata2\\ExcCkasseAbstrata2.csproj",
-      "projectName": "ExcCkasseAbstrata2",
-      "projectPath": "D:\\Users\\Gabriel\\Google Drive PUC\\Sistemas de Informação\\3º Semestre\\LabPOO\\Exercícios\\ExcCkasseAbstrata2\\ExcCkasseAbstrata2.csproj",
+      "projectUniqueName": "D:\\Users\\Gabriel\\Google Drive PUC\\Sistemas de Informação\\3º Semestre\\LabPOO\\Exercícios\\ExcCkasseAbstrata2\\ExcClasseAbstrata2.csproj",
+      "projectName": "ExcClasseAbstrata2",
+      "projectPath": "D:\\Users\\Gabriel\\Google Drive PUC\\Sistemas de Informação\\3º Semestre\\LabPOO\\Exercícios\\ExcCkasseAbstrata2\\ExcClasseAbstrata2.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
       "outputPath": "D:\\Users\\Gabriel\\Google Drive PUC\\Sistemas de Informação\\3º Semestre\\LabPOO\\Exercícios\\ExcCkasseAbstrata2\\obj\\",
       "projectStyle": "PackageReference",
